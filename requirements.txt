@@ -1,0 +1,6 @@
+bs4
+Flask
+schedule
+requests
+nltk
+scikit-learn
