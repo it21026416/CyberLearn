@@ -21,9 +21,8 @@ Python 3.8+
 # Installation
 1. Clone the repository: git clone https://github.com/it21026416/CyberLearn.git
 2. Navigate to the project directory: cd CyberLearn
-3. Install the required packages: pip install -r requirements.txt
-4. Build the Docker container: docker build -t cyberlearn .
-5. Start the Docker container: docker run -p 5000:5000 cyberlearn
+3. Build the Docker container: docker build -t cyberlearn .
+4. Start the Docker container: docker run -p 5000:5000 cyberlearn
 5. Access the web interface at: http://localhost:5000
 
 # Usage
